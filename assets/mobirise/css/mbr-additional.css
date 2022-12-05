@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: undefined;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 5rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 6.25rem;
 }
 .display-2 {
-  font-family: undefined;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 2rem;
   line-height: 1.1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 2.5rem;
 }
 .display-4 {
-  font-family: undefined;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.75rem;
 }
 .display-5 {
-  font-family: undefined;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 4rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 5rem;
 }
 .display-7 {
-  font-family: undefined;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.5rem;
   line-height: 1.5;
 }
@@ -586,7 +586,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: undefined;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
@@ -600,7 +600,7 @@ a:hover {
   border-color: #ffffff !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: undefined;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
@@ -1099,25 +1099,6 @@ a {
   text-align: center;
 }
 .cid-tf4jL9ovL5 .mbr-section-title {
-  color: #ffffff;
-}
-.cid-te11jI3llW {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/texture2.png");
-}
-.cid-te11jI3llW .video-wrapper iframe {
-  width: 100%;
-}
-.cid-te11jI3llW .mbr-section-title,
-.cid-te11jI3llW .mbr-section-subtitle,
-.cid-te11jI3llW .mbr-text {
-  text-align: center;
-}
-.cid-te11jI3llW .mbr-section-title {
-  color: #ffffff;
-}
-.cid-te11jI3llW .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-sFHvmoQ5Jg {
